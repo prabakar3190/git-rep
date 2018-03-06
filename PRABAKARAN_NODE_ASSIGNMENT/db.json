@@ -1,0 +1,50 @@
+{
+  "product1": {
+    "id": "1",
+    "productName": "Micromax",
+    "price": 9999,
+    "inTheBox": "Handset, Battery, Charger, User Manual",
+    "modelNumber": "ERA-2V",
+    "size": "5 inch",
+    "category": "phablet",
+    "color": "Black",
+    "touchScreen": "yes",
+    "image": "http://localhost:3000/images/mobile.jpeg"
+  },
+  "product3": {
+    "id": "3",
+    "productName": "Samsung",
+    "price": 5999,
+    "inTheBox": "Handset, Battery, Charger, User Manual",
+    "modelNumber": "ERA-2V",
+    "size": "5 inch",
+    "category": "tablet",
+    "color": "white",
+    "touchScreen": "yes",
+    "image": "http://localhost:3000/images/mobile.jpeg"
+  },
+  "product2": {
+    "id": "2",
+    "productName": "iPhone",
+    "price": 7999,
+    "inTheBox": "Handset, Battery, Charger, User Manual",
+    "modelNumber": "ERA-2V",
+    "size": "5 inch",
+    "category": "mobile",
+    "color": "Black",
+    "touchScreen": "yes",
+    "image": "http://localhost:3000/images/mobile.jpeg"
+  },
+  "product4": {
+    "id": "4",
+    "productName": "oppo",
+    "price": 8999,
+    "inTheBox": "Handset, Battery, Charger, User Manual",
+    "modelNumber": "ERA-2V",
+    "size": "5 inch",
+    "category": "mobile",
+    "color": "white",
+    "touchScreen": "yes",
+    "image": "http://localhost:3000/images/mobile.jpg"
+  }
+}
